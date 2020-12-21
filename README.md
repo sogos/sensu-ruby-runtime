@@ -32,6 +32,7 @@ how to get started with this project.
 |  centos7  (based on centos:7)     | Centos(7,8), Debian(8, 9, 10), Ubuntu(14.04, 16.04, 18.04, 20.04)     |
 |  centos8 (based on centos:8)     | Centos(8), Debian(10), Ubuntu(20.04)  |
 |  debian  (based on debian:9)     | Debian(8, 9, 10), Ubuntu(14.04, 16.04, 18.04, 20.04), Centos(7,8)    |
+|  ubuntu  (based on ubuntu:20.04)     | Ubuntu(20.04)
 |  amnz1   (based on amazonlinux:1)     | Debian(8, 9, 10), Ubuntu(14.04, 16.04, 18.04, 20.04), Centos(7,8)    |
 |  amnz2   (based on amazonlinux:2)     | Debian(10), Ubuntu(18.04, 20.04), Centos(8)    |
 
